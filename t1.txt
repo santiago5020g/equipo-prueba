@@ -1,5 +1,6 @@
 la cosanskja sja ls dalks dla s,das
 alksd alks dlak sd;lka s'lda
+
 sd
 as
 da
@@ -17,5 +18,8 @@ ese es otro cambio de Carlos3
 este cambio lo hace santiago1
 este es otro cambio de santiago2
 este es otro cabio de santiago3
+<<<<<<< HEAD
 santiago4
 
+=======
+>>>>>>> bc527f5e504912fbab365f12e4424bacc7a0f36c
